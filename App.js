@@ -15,6 +15,8 @@ import Modals from './src/components/Modals';
 import Responsiveness from './src/components/Responsiveness';
 import Animation1 from './src/animations/Animation1';
 import Animation2 from './src/animations/Animation2';
+import OnlineOflineCheck from './src/components/OnlineOflineCheck';
+import Notify from './src/components/nootifeeNotification/Notify';
 
 const App = () => {
 
@@ -76,7 +78,9 @@ const App = () => {
       {/* <Responsiveness/> */}
 
       {/* <Animation1/> */}
-      <Animation2/>
+      {/* <Animation2/> */}
+      {/* <OnlineOflineCheck/> */}
+      <Notify/>
 
 
     </>
