@@ -17,6 +17,7 @@ import Animation1 from './src/animations/Animation1';
 import Animation2 from './src/animations/Animation2';
 import OnlineOflineCheck from './src/components/OnlineOflineCheck';
 import Notify from './src/components/nootifeeNotification/Notify';
+import CustomDropDown from './src/components/CustomDropDown';
 
 const App = () => {
 
@@ -80,7 +81,8 @@ const App = () => {
       {/* <Animation1/> */}
       {/* <Animation2/> */}
       {/* <OnlineOflineCheck/> */}
-      <Notify/>
+      {/* <Notify/> */}
+      <CustomDropDown/>
 
 
     </>

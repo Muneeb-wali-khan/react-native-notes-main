@@ -14,7 +14,7 @@ const TextFlatListDemo3 = () => {
           'Class 4',
           'Class 5',
           'Class 6',
-          'Class 7 and 8 and 9 and 10 and 11',
+          'Class 7 and 8 and 9 and 10 and 11 class 12 class 13 class 14',
         ].map((item, index) => {
           return (
             <Text

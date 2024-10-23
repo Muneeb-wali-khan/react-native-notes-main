@@ -82,7 +82,6 @@ const Buttons = () => {
               alignItems: 'center',
             }}>
             <Text style={{fontSize: 20}}>Click</Text>
-            <Text style={{fontSize: 20}}>Click</Text>
           </View>
         </TouchableWithoutFeedback>
       </View>
