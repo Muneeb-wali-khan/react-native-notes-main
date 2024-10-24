@@ -22,8 +22,8 @@ const CustomDropDown = () => {
         items={items}
         onSelect={handleSelect}
         placeholder="Choose an option"
-        containerStyle={{ backgroundColor: '#f8f8f8', borderRadius: 10 }}
-        dropdownStyle={{ borderColor: '#007bff' }}
+        containerStyle={{ backgroundColor: '#f8f8f8', borderRadius: 10}}
+        dropdownStyle={{ borderColor: '#007bff',padding:15 }}
         placeholderStyle={{ fontSize: 14, color: '#333' }}
         itemStyle={{ backgroundColor: '#f0f0f0', borderBottomWidth: 1, borderColor: '#ddd' }}
         itemTextStyle={{ fontSize: 14, color: '#007bff' }}
@@ -31,6 +31,5 @@ const CustomDropDown = () => {
     </View>
   );
 };
-
 
 export default CustomDropDown;

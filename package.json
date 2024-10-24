@@ -19,7 +19,7 @@
     "react-native-modal": "^13.0.1",
     "react-native-reanimated": "^3.14.0",
     "react-native-size-matters": "^0.4.2",
-    "react-native-smooth-drop-down": "^1.0.2"
+    "react-native-smooth-drop-down": "^1.0.3"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
