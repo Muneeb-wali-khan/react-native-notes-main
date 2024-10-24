@@ -1,6 +1,6 @@
 import React from 'react';
 import { View } from 'react-native';
-import Dropdown from 'react-native-muneeb-wali-khan-smooth-drop-down';
+import Dropdown from 'react-native-smooth-drop-down';
 
 const CustomDropDown = () => {
   const items = [
